@@ -143,7 +143,7 @@ graphql-import@^0.4.0:
 
 graphql-playground-html@leonaves/graphql-playground-html#master:
   version "1.6.0"
-  resolved "https://codeload.github.com/leonaves/graphql-playground-html/tar.gz/1ba87cd946e29ffd68f74b0d1f403584b95a42fd"
+  resolved "https://codeload.github.com/leonaves/graphql-playground-html/tar.gz/e1067e9a1f22ad7a3c0d2460fc7426e0628fdbb4"
   dependencies:
     graphql-config "2.0.0"
 
